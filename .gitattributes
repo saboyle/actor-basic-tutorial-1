@@ -1,3 +1,0 @@
-# Override automatic github language assignment
-* linguist-vendored
-*.scala linguist-vendored=false
